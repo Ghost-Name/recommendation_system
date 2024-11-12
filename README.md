@@ -1,2 +1,2 @@
 # recommendation_system
-MLflow, Jupyter, Matplotlib, NumPY
+MLflow, Jupyter, Matplotlib, NumPY, CatBoost
